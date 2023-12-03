@@ -3,9 +3,6 @@
 ### 🌐 Summary of Ideas:
 - [Photon Pun 2](#photon-pun-2)
 - [Agora SDK 4](#agora-sdk-4)
-  - [Agora for 2D Spaces](#agora-for-2d-spaces)
-  - [Agora for 3D Spaces](#agora-for-3d-spaces)
-  - [Possibilities (Examples)](#possibilities-examples)
 - [Render Texture Approach](#render-texture-approach)
 - [Cinemachine](#cinemachine)
 - [Resources (YouTube)](#resources-youtube)
