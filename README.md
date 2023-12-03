@@ -20,7 +20,7 @@ Used in this project for multiplayer functionalities, synchronization, and colla
 ### Examples
 Explore detailed instructions and code examples in the GitHub repositories:
 
-1. [Unity Photon Pun 2](#unity-photon-pun-2)
+- [Unity Photon Pun 2](#unity-photon-pun-2)
 
 ---
 
