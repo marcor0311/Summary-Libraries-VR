@@ -20,7 +20,7 @@ Used in this project for multiplayer functionalities, synchronization, and colla
 ### Examples
 Explore a video introduction in the following youtube video:
 
-- [Youtube Video]([https://www.youtube.com/](https://www.youtube.com/watch?v=p0cZINbep_A))
+- [Youtube Video](https://www.youtube.com/watch?v=p0cZINbep_A)
 
 Explore detailed instructions and code examples in the GitHub repository:
 
