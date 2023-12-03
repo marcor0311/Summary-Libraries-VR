@@ -5,7 +5,7 @@
 - [Agora SDK 4](#agora-sdk-4)
 - [Render Texture Approach](#render-texture-approach)
 - [Cinemachine](#cinemachine)
-- [Resources (YouTube)](#resources-youtube)
+- [Resources (Github and YouTube)](#resources-github-and-youtube)
 
 ---
 
@@ -70,7 +70,7 @@ Explore real-world examples showcasing Agora SDK 4's flexibility and application
 
 ---
 
-## Resources (Youtube)
+## Resources (Github and YouTube)
 
 ### Recommended Channels
 *List of recommended YouTube channels for additional learning.*
