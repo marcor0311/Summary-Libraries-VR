@@ -18,9 +18,9 @@ Photon Pun 2 enables real-time multiplayer in Unity for games and collaborative 
 Used in this project for multiplayer functionalities, synchronization, and collaboration.
 
 ### Examples
-Explore detailed instructions and code examples in the GitHub repositories:
+Explore detailed instructions and code examples in the GitHub repository:
 
-- [Unity Photon Pun 2](#unity-photon-pun-2)
+- [Unity Photon Pun 2 Repository](https://github.com/marcor0311/unity-photon-pun-2)
 
 ---
 
