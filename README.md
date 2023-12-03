@@ -2,10 +2,14 @@
 
 ### 🌐 Summary of Ideas:
 - [Photon Pun 2](#photon-pun-2)
-- [Agora Library](#agora-library)
+- [Agora SDK 4](#agora-sdk-4)
+  - [What is Agora](#what-is-agora)
+  - [Agora for 2D Spaces](#agora-for-2d-spaces)
+  - [Agora for 3D Spaces](#agora-for-3d-spaces)
+  - [Possibilities (Examples)](#possibilities-examples)
 - [Render Texture Approach](#render-texture-approach)
 - [Cinemachine](#cinemachine)
-- [Resources (Youtube)](#resources-youtube)
+- [Resources (YouTube)](#resources-youtube)
 
 ---
 
@@ -28,16 +32,32 @@ Explore detailed instructions and code examples in the GitHub repository:
 
 ---
 
-## Agora Library
+## Agora SDK 4
 
 ### Overview
-*Introduction to the Agora Library and its role in the course.*
+Agora SDK 4 is a versatile toolkit for enabling real-time audio and video communications in various spaces.
 
-### Integration
-*How to integrate and use the Agora Library within your projects.*
+### Usage
+Utilized in this course for seamless integration of audio and video communication features.
 
-### Tips and Tricks
-*Any additional tips or best practices for using the Agora Library effectively.*
+### Examples
+Explore detailed instructions and code examples in the GitHub repositories:
+
+1. [Agora SDK 4 Starter Kit](link-to-repo-1): Setup guide and sample projects.
+2. [Agora SDK 4 Advanced Examples](link-to-repo-2): In-depth examples for advanced features.
+
+#### What is Agora
+An introduction to the Agora SDK 4 and its capabilities for real-time communication.
+
+#### Agora for 2D Spaces
+Guidance on utilizing Agora SDK 4 for seamless audio and video communication in 2D spaces.
+
+#### Agora for 3D Spaces
+Instructions on implementing Agora SDK 4 for immersive audio and video experiences in 3D spaces.
+
+#### Possibilities (Examples)
+Explore real-world examples and possibilities using Agora SDK 4, showcasing its flexibility and applications.
+
 
 ---
 
