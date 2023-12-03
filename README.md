@@ -20,7 +20,7 @@ Used in this project for multiplayer functionalities, synchronization, and colla
 ### Examples
 Explore a video introduction in the following youtube video:
 
-- [Video Explicativo sobre el Ambiente de Desarrollo para Photon Pun 2](https://www.youtube.com/watch?v=p0cZINbep_A)
+- [Explanatory Video about the Development Environment necessary for Photon Pun 2](https://www.youtube.com/watch?v=p0cZINbep_A)
 
 Explore detailed instructions and code examples in the GitHub repository:
 
