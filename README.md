@@ -77,13 +77,3 @@ Start with [Agora for 2D Spaces](https://github.com/marcor0311/unity-agora-sdk-4
 
 ## Resources (Github and YouTube)
 
-### Recommended Channels
-*List of recommended YouTube channels for additional learning.*
-
-### Playlists
-*Highlight specific playlists that students can benefit from.*
-
-### Supplementary Material
-*Any additional resources or notes related to YouTube content.*
-
-
