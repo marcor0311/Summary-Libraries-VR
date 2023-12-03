@@ -40,20 +40,17 @@ Agora SDK 4 is a versatile toolkit for enabling real-time audio and video commun
 ### Usage
 Utilized in this course for seamless integration of audio and video communication features.
 
-### Examples
-Explore detailed instructions and code examples in the GitHub repositories:
-
-1. [Agora SDK 4 Starter Kit](link-to-repo-1): Setup guide and sample projects.
-2. [Agora SDK 4 Advanced Examples](link-to-repo-2): In-depth examples for advanced features.
+### Recommendations
+I recommend to start with Agora for 2D spaces before trying Agora for 3D spaces for a better understanding of the library.
 
 #### What is Agora
 An introduction to the Agora SDK 4 and its capabilities for real-time communication.
 
 #### Agora for 2D Spaces
-Guidance on utilizing Agora SDK 4 for seamless audio and video communication in 2D spaces.
+[Unity Agora SDK 4 with UI 2D Repository](https://github.com/marcor0311/unity-agora-sdk-4-with-ui-for-2d-spaces)
 
 #### Agora for 3D Spaces
-Instructions on implementing Agora SDK 4 for immersive audio and video experiences in 3D spaces.
+[Unity Agora SDK 4 3D Repository](https://github.com/marcor0311/unity-agora-sdk-4-for-3d-spaces)
 
 #### Possibilities (Examples)
 Explore real-world examples and possibilities using Agora SDK 4, showcasing its flexibility and applications.
