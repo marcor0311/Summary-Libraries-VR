@@ -34,7 +34,7 @@ Explore detailed instructions and code examples in the GitHub repository:
 Agora SDK 4 is a versatile toolkit for seamless real-time audio and video communication across different spaces.
 
 ### Usage
-Integral for this project, facilitating the integration of webcam (audio and video) communication.
+Used in this project for webcam (audio and video) communication.
 
 ### Recommendations
 Start with [Agora for 2D Spaces](https://github.com/marcor0311/unity-agora-sdk-4-with-ui-for-2d-spaces) before progressing to [Agora for 3D Spaces](https://github.com/marcor0311/unity-agora-sdk-4-for-3d-spaces) for a comprehensive understanding.
