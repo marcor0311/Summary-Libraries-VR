@@ -3,7 +3,6 @@
 ### 🌐 Summary of Ideas:
 - [Photon Pun 2](#photon-pun-2)
 - [Agora SDK 4](#agora-sdk-4)
-  - [What is Agora](#what-is-agora)
   - [Agora for 2D Spaces](#agora-for-2d-spaces)
   - [Agora for 3D Spaces](#agora-for-3d-spaces)
   - [Possibilities (Examples)](#possibilities-examples)
@@ -42,9 +41,6 @@ Utilized in this course for seamless integration of audio and video communicatio
 
 ### Recommendations
 I recommend to start with Agora for 2D spaces before trying Agora for 3D spaces for a better understanding of the library.
-
-#### What is Agora
-An introduction to the Agora SDK 4 and its capabilities for real-time communication.
 
 #### Agora for 2D Spaces
 [Unity Agora SDK 4 with UI 2D Repository](https://github.com/marcor0311/unity-agora-sdk-4-with-ui-for-2d-spaces)
