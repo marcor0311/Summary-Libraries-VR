@@ -44,36 +44,31 @@ Explore a video introduction in my youtube tutorial:
 ### Recommendations
 Start with [Agora for 2D Spaces](https://github.com/marcor0311/unity-agora-sdk-4-with-ui-for-2d-spaces) before progressing to [Agora for 3D Spaces](https://github.com/marcor0311/unity-agora-sdk-4-for-3d-spaces) for a comprehensive understanding.
 
-### Possibilities (Examples)
-
+Possible approaches that could be helpful are located in Assets/Agora-Unity-RTC-Plugin/API-Example/Examples/Advanced.
 
 ---
 
 ## Render Texture Approach
 
 ### Concept
-*Explanation of the render texture approach and its applications.*
+The **render texture approach** in Unity involves capturing the output of a rendering process and using it as a texture.
 
-### Implementation
-*Step-by-step guide on implementing the render texture approach.*
+### Usage
+The render texture approach is used in this project for real-time rendering of the virtual cammera.
 
-### Visuals
-*Include visuals or diagrams to aid understanding of the concept.*
+### Tutorial
+Explore a video introduction in my youtube tutorial:
+
+- [Explanatory Video about how to create a Render Texture for a Virtual Camera in Unity](https://youtu.be/HTvgcDDtNkM)
 
 ---
 
 ## Cinemachine
 
-### Introduction
-*Overview of Cinemachine and its significance in your course.*
-
-### Camera Control
-*How to implement camera control using Cinemachine.*
-
-### Advanced Features
-*Explore any advanced features or tips related to Cinemachine.*
-
+In process
 ---
 
 ## Resources (Github and YouTube)
+
+In process
 
