@@ -4,8 +4,6 @@
 - [Photon Pun 2](#photon-pun-2)
 - [Agora SDK 4](#agora-sdk-4)
 - [Render Texture Approach](#render-texture-approach)
-- [Cinemachine](#cinemachine)
-- [Resources (Github and YouTube)](#resources-github-and-youtube)
 
 ---
 
