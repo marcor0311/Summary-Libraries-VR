@@ -61,14 +61,3 @@ Explore a video introduction in my youtube tutorial:
 
 - [Explanatory Video about how to create a Render Texture for a Virtual Camera in Unity](https://youtu.be/HTvgcDDtNkM)
 
----
-
-## Cinemachine
-
-In process
----
-
-## Resources (Github and YouTube)
-
-In process
-
